@@ -25,6 +25,34 @@ body {
 	background-color: #fff0e0;
 }
 
+.resume-namecolor {
+	background-color: #8CC0FA;
+}
+
+.resume-sidecolor {
+	background-color: #B8CBD6;
+}
+
+.resume-maincolor {
+	background-color: #D8E4ED;
+}
+
+.funky-text {
+	color: #8020cc;
+	text-align: center;
+	font-style: italic;
+	text-decoration: underline #ffcc00;
+}
+
+.naampje {
+	color: #FFFFFF;
+	text-align: center;
+}
+
+.taglinename {
+	text-align: center;
+}
+
 /* Styles for lists in the document */
 
 .biography-details li::before, .skill-list li::before {
